@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Long
+- 👋 Hi there, I’m Long
 - 👀 I’m interested in Java, C++,...
 - 🌱 I’m currently learning Software Engineering in Duy Tan University
-- 📫 You can reach me on Facebook, Instagram,...
+- 📫 You can reach me on
+-   Facebook: https://www.facebook.com/longrcb05
+-   Instagram: https://www.instagram.com/longrcb05
+-   Telegram: https://t.me/longrcb05
 
 <!---
 longrcb05/longrcb05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
