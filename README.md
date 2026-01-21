@@ -2,6 +2,7 @@
 - 👀 I’m interested in Java, C++,...
 - 🌱 I’m currently learning Software Engineering in Duy Tan University
 - 📫 You can reach me on
+-   My Profile: https://longrcb05.vercel.app
 -   Facebook: https://www.facebook.com/longrcb05
 -   Instagram: https://www.instagram.com/longrcb05
 -   Telegram: https://t.me/longrcb05
